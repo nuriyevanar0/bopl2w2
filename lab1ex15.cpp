@@ -2,7 +2,7 @@
 using namespace std;
 
 /*
-	Laboratory 1 Ex13
+	Laboratory 1 Ex15
 	Write a program that reads from user two points in cartesian coordinates and finds midpoint between them.
 */
 
